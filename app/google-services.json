@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "74521080293",
+    "project_id": "pkrlo-bd4c3",
+    "storage_bucket": "pkrlo-bd4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74521080293:android:0082bf4357e755db66bf0c",
+        "android_client_info": {
+          "package_name": "com.example.edddrrrrraaaaaaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74521080293-h4q1g22g3a57f5nua4hc4hd2ggop6mlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnC5GyhTWEHO_vFgAH6W9BQsug4hW77Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74521080293-h4q1g22g3a57f5nua4hc4hd2ggop6mlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74521080293:android:c48ed33321102e2166bf0c",
+        "android_client_info": {
+          "package_name": "com.example.mapstrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74521080293-h4q1g22g3a57f5nua4hc4hd2ggop6mlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnC5GyhTWEHO_vFgAH6W9BQsug4hW77Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74521080293-h4q1g22g3a57f5nua4hc4hd2ggop6mlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
